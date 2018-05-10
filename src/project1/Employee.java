@@ -5,6 +5,8 @@ public class Employee {
 	private double empSal;
 	public static void main(String[] args) {
 		System.out.println("emp detail");
+		System.out.println("manager");
+		
 	}
 
 }
